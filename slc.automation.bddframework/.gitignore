@@ -1,0 +1,30 @@
+*.html
+*.tmp
+*.json
+*.css
+*.js
+*.log
+*.png
+*.gif
+*.txt
+**/CucumberReports
+**/cucumber
+**/Screenshots
+**/logs
+<<<<<<< HEAD
+target/*
+=======
+>>>>>>> developSmokeTest
+**/test-output
+SLC_BDDAutomationFramework/*
+/target/surefire
+!CustomerData/*.txt
+<<<<<<< HEAD
+/target/*
+target/cucumber-html-reports/*
+SLC_BDDAutomationFramework/target/classes/.cucumber/*
+/target/
+=======
+/target/
+target/*
+>>>>>>> developSmokeTest
